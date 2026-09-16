@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "age": 25,
+    "city": "Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "email": "priya@gmail.com",
+    "age": 28,
+    "city": "Pune"
+  },
+  {
+    "id": 3,
+    "name": "Amit",
+    "email": "amit@gmail.com",
+    "age": 30,
+    "city": "Delhi"
+  },
+  {
+    "id": 4,
+    "name": "Sneha",
+    "email": "sneha@gmail.com",
+    "age": 24,
+    "city": "Bengaluru"
+  },
+  {
+    "id": 5,
+    "name": "Arjun",
+    "email": "arjun@gmail.com",
+    "age": 27,
+    "city": "Hyderabad"
+  }
+]

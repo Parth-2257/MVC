@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price": 399,
+    "category": "Fiction",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": 499,
+    "category": "Self Help",
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 699,
+    "category": "Programming",
+    "available": false
+  },
+  {
+    "id": 4,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "price": 450,
+    "category": "Finance",
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "price": 550,
+    "category": "Fantasy",
+    "available": true
+  }
+]
